@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-demo-app-angular-f29d8": {
+      "hosting": {
+        "test-firebase": [
+          "todo-demo-app-angular-f29d8"
+        ]
+      }
+    }
+  }
+}
